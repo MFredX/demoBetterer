@@ -2,16 +2,9 @@
   "version": 2,
   "testCache": {
     "[typescript] strictNullChecks": {
-      "src/app/app.component.spec.ts": "1dcc6be5534169511144c2cad2ea329a0b3223df374929bb9f5f81bf11d7a30a8f900ffb725968fc",
       "src/app/app.component.ts": "1dcc6be5534169511144c2cad2ea329a0b3223df16f198c323c65db63d42089bc7b3c3d941e9f2e5",
       "src/app/app.module.ts": "1dcc6be5534169511144c2cad2ea329a0b3223df8dfc1d68272a4187ff2fd1d95cc18be7f1bb008e",
-      "src/environments/environment.prod.ts": "1dcc6be5534169511144c2cad2ea329a0b3223df3612073bc31cd4c1f5d6cbb00318521e9a61bd8a",
-      "src/environments/environment.ts": "1dcc6be5534169511144c2cad2ea329a0b3223dff56ff47022c7a46eac3aee615d6d9150338524dc",
-      "src/helper-methods copy.ts": "1dcc6be5534169511144c2cad2ea329a0b3223df3416203344",
-      "src/helper-methods.ts": "1dcc6be5534169511144c2cad2ea329a0b3223df2abb0132bcd034f2e3e14b341db28f03ff56489f",
-      "src/main.ts": "1dcc6be5534169511144c2cad2ea329a0b3223dfc7b673cf44b388e9989fe908b78d7d73cd2e1409",
-      "src/polyfills.ts": "1dcc6be5534169511144c2cad2ea329a0b3223df429bb9ef2d3400363c014fa434775b0f482f6bea",
-      "src/test.ts": "1dcc6be5534169511144c2cad2ea329a0b3223dfc04c876075f97ff17aa630fc0f540f5d58235f37",
+      "src/helper-methods.ts": "1dcc6be5534169511144c2cad2ea329a0b3223dfa8b9b0f6ebc78cf032b77c37359028f03a312c8f",
       "src/user.ts": "1dcc6be5534169511144c2cad2ea329a0b3223dff908ac1239b5ddc8ac88fdf6863e599abf3db99c"
     }
   }

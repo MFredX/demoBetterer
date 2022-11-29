@@ -8,9 +8,6 @@ exports[`[typescript] strictNullChecks`] = {
     "src/helper-methods copy.ts:3416203344": [
       [10, 16, 12, "Object is possibly \'undefined\'.", "896003441"]
     ],
-    "src/helper-methods.ts:3416203344": [
-      [10, 16, 12, "Object is possibly \'undefined\'.", "896003441"]
-    ],
     "src/user.ts:1044250097": [
       [5, 33, 8, "Object is possibly \'undefined\'.", "2366235193"],
       [15, 54, 8, "Object is possibly \'undefined\'.", "2366235193"]

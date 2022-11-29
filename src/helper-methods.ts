@@ -7,6 +7,7 @@ export function what(){
       { name: "Heera", age: 32 },
     ];
      
-    const loggedInUser = users.find((u) => u.name === loggedInUsername);
-    console.log(loggedInUser.age);
+    console.log(users)
+    // const loggedInUser = users.find((u) => u.name === loggedInUsername);
+    // console.log(loggedInUser.age);
 }
