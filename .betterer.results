@@ -1,0 +1,12 @@
+// BETTERER RESULTS V2.
+// 
+// If this file contains merge conflicts, use `betterer merge` to automatically resolve them:
+// https://phenomnomnominal.github.io/betterer/docs/results-file/#merge
+//
+exports[`[typescript] strictNullChecks`] = {
+  value: `{
+    "src/helper-methods.ts:3416203344": [
+      [10, 16, 12, "Object is possibly \'undefined\'.", "896003441"]
+    ]
+  }`
+};
