@@ -8,6 +8,6 @@ export function what(){
     ];
      
     console.log(users)
-    // const loggedInUser = users.find((u) => u.name === loggedInUsername);
-    // console.log(loggedInUser.age);
+    const loggedInUser = users.find((u) => u.name === loggedInUsername);
+    console.log(loggedInUser.age);
 }
